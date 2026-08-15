@@ -1,0 +1,43 @@
+{
+    "changeLang": "تغيير اللغة",
+    "createNewAccount": "تسجيل حساب جديد",
+    "fullName": "اسم المستخدم",
+    "email": "البريد الإلكتروني",
+    "pass": "كلمةالمرور",
+    "confirmPass":"تأكيد كلمة المرور",
+    "signUp":"تسجيل",
+
+    
+    "fullNameRequired": "اسم المستخدم مطلوب",
+    "firstLetterCapital": "يجب أن يكون الحرف الأول حرفًا كبيرًا",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "emailMustContainAt": "يجب أن يحتوي البريد الإلكتروني على @",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "passwordMinLength": "يجب أن تكون كلمة المرور أكبر من 6أحرف",
+    "confirmPasswordRequired": "يرجى تأكيد كلمة المرور",
+    "passwordsDoNotMatch": "كلمة المرور غير متطابقة",
+
+    "success": "نجاح",
+    "accountCreatedSuccessfully": "تم إنشاء الحساب بنجاح",
+    "ok": "حسناً",
+
+    "firstProject": "مشروعي الأول",
+    "displayImage": "تم عرض الصورتين بنجاح",
+    
+    "logo":"فلوراست",
+    "ourProducts":"منتجاتنا",
+
+    "f1":"أزاليا وردية",
+    "f2":"أزهار بيضاء",
+    "f3":"طائر الجنة",
+    "f4":"ماغنوليا وردية",
+    "snakBarMessege":"تمت إضافة المنتج إلى السلة",
+
+    "hotOffer": "أفضل العروض",
+    "specialFlower":"عرض خاص على الزهور",
+    "offer":"خصم يصل إلى 30%",
+    "flowerBouquet":"باقة زهور مميزة",
+    "redRoses":"عرض خاص على الورود الحمراء",
+    "summerFlowers":"خصم على زهور الصيف",
+    "weddingBouquet":"عرض باقة الزفاف"
+}

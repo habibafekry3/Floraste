@@ -1,0 +1,42 @@
+{
+    "changeLang": "Change language",
+    "createNewAccount": "Create New Account",
+    "fullName": "Full Name",
+    "email": "Email",
+    "pass": "Password",
+    "confirmPass":"Confirm Password",
+    "signUp":"Sign Up",
+
+    "fullNameRequired": "Full name is required",
+    "firstLetterCapital":"First letter must be capital" ,
+    "emailRequired":"Email is required" ,
+    "emailMustContainAt":"Email must contain @" ,
+    "passwordRequired": "Password is required",
+    "passwordMinLength":"Password must be at least 6 characters" ,
+    "confirmPasswordRequired":"Please confirm your password" ,
+    "passwordsDoNotMatch": "Passwords do not match",
+
+    "success":"Success",
+    "accountCreatedSuccessfully":"Account created successfully",
+    "ok":"Ok",
+
+    "firstProject" : "My First Project",
+    "displayImage" : "The two images are displayed",
+
+    "logo":"Floraste",
+    "ourProducts":"Our Products",
+
+    "f1":"Pink Azalea",
+    "f2":"White Blossom",
+    "f3":"Bird of Paradise",
+    "f4":"Pink Magnolia",
+    "snakBarMessege":"Item added to the cart",
+
+    "hotOffer": "Hot Offers",
+    "specialFlower":"Special Flower Offer",
+    "offer":"UP TO 30% OFF",
+    "flowerBouquet":"Beautiful Flower Bouquet",
+    "redRoses":"Red Roses Special Offer",
+    "summerFlowers":"Summer Flowers Discount",
+    "weddingBouquet":"Wedding Bouquet Offer"
+}
